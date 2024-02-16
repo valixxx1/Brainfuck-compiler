@@ -22,4 +22,4 @@ it turns this file into a bytecode that looks like this:
 +7
  . . .
 ```
-and then interpretate it. I think it's a new way for Brainfuck compilers. In the file main.c there is the code of this compiler, so you can read it (I know that it's a very hard to read it :(  ).
+and then interpretates it. I think it's a new way for Brainfuck compilers. In the file main.c there is the code of this compiler, so you can read it (I know that it's a very hard to read it :(  ).
