@@ -1,5 +1,5 @@
 # What is it?
-This is a simple Brainfuck compiler that I have made in C. It isn't slow, I think it faster than Python.
+This is a simple Brainfuck interpreter that I have made in C. It isn't slow, I think it faster than Python.
 # Quick Start
 1. Find `./bf` file;
 2. In the command line run `./bf hello_world.bf` and you will see "Hello, world!" (this example is from Wikipedia);
@@ -22,4 +22,4 @@ it turns this file into a bytecode that looks like this:
 +7
  . . .
 ```
-and then interpretates it. I think it's a new way for Brainfuck compilers. In the file main.c there is the code of this compiler, so you can read it (I know that it's a very hard to read it :(  ).
+and then interpretates it. I think it's a new way for Brainfuck interpreters. In the file main.c there is the code of this interpreter, so you can read it (I know that it's a very hard to read it :(  ).
